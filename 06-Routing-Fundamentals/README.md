@@ -29,11 +29,6 @@ It covers static routing, route summarization, and default routes, providing the
 - Analyzing routing tables and path selection behavior  
 - Implementing equal-cost load balancing  
 
----
-
-## 🖼️ Topology
-![Routing Fundamentals Topology](./16%20Routing%20Fundamentals.JPG)
-
 
 ---
 
